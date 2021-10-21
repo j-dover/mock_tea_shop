@@ -1,2 +1,2 @@
-# mock_cat_cafe
-A project for a mock cat cafe
+# mock_tea_shop
+A project for a mock tea shop
